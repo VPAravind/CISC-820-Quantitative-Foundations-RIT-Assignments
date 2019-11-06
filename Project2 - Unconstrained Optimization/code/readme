@@ -1,0 +1,23 @@
+1) Make sure you have all these files in the working directory 
+
+	Back_Track.m
+	Conjugate_Gradient.m (It is implemented without restart)
+	fun2_A.txt
+	fun2_b.txt
+	fun2_c.txt
+	func1.m
+	func2.m
+	func3.m
+	g_func1.m
+	g_func2.m
+	g_func3.m
+	Gradient_Descent.m
+	h_func1.m
+	h_func2.m
+	h_func3.m
+	main.m
+	Newton_Method.m
+	Pass_Constraint.m
+	Quasi_Newton.m
+
+2) just run main() and results will be displayed
