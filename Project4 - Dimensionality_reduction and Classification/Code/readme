@@ -1,0 +1,15 @@
+1. Make Sure you have the following files and folders in working directory
+
+	1. all_plots.m
+	2. basis_expansion.m
+	3. Classification.m
+	4. Classification_KNN.m
+	5. PCA.m
+	6. Read_Project_Data.m
+	7. Classification_Kmeans.m
+	8. main.m
+	9. Other_Images
+	10. att_faces
+
+2. run main.m to regenrate results
+3. Remaining methods are implemented in python notebook (Quant4_Code) please run each cell to get the outputs. 
